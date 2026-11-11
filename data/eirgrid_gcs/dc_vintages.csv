@@ -1,0 +1,98 @@
+edition,scenario,year,quantity,unit,source_table,page,note
+GCS 2015-2024,All,,over 200,MW,"Key messages, Ireland (text)",pdf p8,Existing data centre sector demand at publication ('already accounts for over 200 MW of demand'); incorporated in demand forecasts; no scenario split
+GCS 2016-2025,All,,about 250,MVA,Section 2.2(d) text; Figure 2-2 label,pdf p21,Installed data centres at publication (transmission + distribution)
+GCS 2016-2025,All,,approximately 600,MVA,Section 2.2(d) text; Figure 2-2 label,pdf p21,Further data centre capacity with connection offers / in connection process
+GCS 2016-2025,All,,"1,100",MVA,Section 2.2(d) text; Figure 2-2 label,pdf p21,Further data centre enquiries
+GCS 2016-2025,Low,,50,% of in-process data centre capacity assumed to connect,Section 2.2(e) text,pdf p21,Scenario definition; no MVA or TWh per scenario printed
+GCS 2016-2025,Median,,100,% of in-process data centre capacity assumed to connect,Section 2.2(e) text,pdf p21,Scenario definition
+GCS 2016-2025,High,,50,% of data centres with material enquiries assumed to connect (in addition to Median),Section 2.2(e) text,pdf p21,Scenario definition
+GCS 2017-2026,All,,about 250,MVA,Section 2.2(d) text,pdf p24,Installed data centres at publication
+GCS 2017-2026,All,,up to 600,MVA,Section 2.2(d) text,pdf p24,Connection offers in place or in process
+GCS 2017-2026,All,,"more than 1,000",MVA,Section 2.2(d) text,pdf p24,Enquiries for additional data centres
+GCS 2017-2026,Low,,270,MVA,Section 2.2(e) text,pdf p25,Approximately half of data centres in connection process assumed to connect; additional to existing
+GCS 2017-2026,Median,,540,MVA,Section 2.2(e) text; Figure 2-1 label 'In-Process Capacity (540 MVA)',pdf p25,In-process data centres assumed to connect; additional to existing
+GCS 2017-2026,High,,630,MVA,Section 2.2(e) text; Figure 2-1 label 'Probable Material Enquiries (630 MVA)',pdf p25,Material enquiries assumed to connect IN ADDITION to the Median 540 MVA
+GCS 2017-2026,Median,2026,15,% of TER,Figure 2-3 caption,pdf p26,'We estimate that 15% of demand will come from data centres by 2026'
+GCS 2018-2027,All,,over 400,MVA,Section 2.2.4 text,pdf p23,Demand capacity contracted to data centres at publication; typical load approx. 50% of contracted Maximum Input Capacity
+GCS 2018-2027,All,,approximately 50,% of contracted MIC,Section 2.2.4 text,pdf p23,Typical load drawn by existing data centre customers
+GCS 2018-2027,Low,2027,700,MVA,Section 2.2.5 text; Figure 2-1,pdf p24,Approx. half of potential demand in connection process; large energy users (mainly data centres); additional to existing
+GCS 2018-2027,Median,2027,1400,MVA,Section 2.2.5 text; Figure 2-1,pdf p24,All potential demand in connection process; additional to existing
+GCS 2018-2027,High,2027,370,MVA,Section 2.2.5 text; Figure 2-1,pdf p24,Material enquiries IN ADDITION to Median 1400 MVA
+GCS 2018-2027,Median,2027,31,% of TER,Summary (text) and Figure 2-3 caption,pdf p25,'31% of total demand will come from data centres by 2027'; Figure 2-3 label says data centres and other large energy users; same statement on pdf p13
+GCS 2019-2028,All,,approximately 1000,MVA,Section 2.2.4 text,pdf p25,Demand capacity contracted to data centres and other large energy users; typical load approx. 35% of contracted MIC
+GCS 2019-2028,All,,approximately 35,% of contracted MIC,Section 2.2.4 text,pdf p25,Typical load currently drawn
+GCS 2019-2028,Low,2028,700,MVA (addition to 400 MVA currently built),Table 5,pdf p26,Data centres and large industrial users
+GCS 2019-2028,Low,2028,1100,MVA (overall 2028 demand),Table 5,pdf p26,Data centres and large industrial users; = 400 MVA built + addition
+GCS 2019-2028,Median,2028,1000,MVA (addition to 400 MVA currently built),Table 5,pdf p26,Data centres and large industrial users
+GCS 2019-2028,Median,2028,1400,MVA (overall 2028 demand),Table 5,pdf p26,Data centres and large industrial users; = 400 MVA built + addition
+GCS 2019-2028,High,2028,1600,MVA (addition to 400 MVA currently built),Table 5,pdf p26,Data centres and large industrial users
+GCS 2019-2028,High,2028,1900,MVA (overall 2028 demand),Table 5,pdf p26,Data centres and large industrial users; = 400 MVA built + addition
+GCS 2019-2028,Median,2028,29,% of TER,Figure 9 caption; summary text,pdf p27,'29% of total demand will come from data centres by 2028'; Figure 9 label says data centres and other large energy users; also pdf p14
+GCS 2020-2029,All,,approximately 1100,MVA,Section 2.2.5 text,pdf p32,Contracted to data centres and other large energy users already connected; typical load approx. 40% of contracted MIC
+GCS 2020-2029,All,,approximately 40,% of contracted MIC,Section 2.2.5 text,pdf p32,Typical load currently drawn
+GCS 2020-2029,Low,2029,340,MVA (addition to 450 MVA currently built),Table 5,pdf p32,Data centres and large industrial users
+GCS 2020-2029,Low,2029,790,MVA (overall 2029 demand),Table 5,pdf p32,Data centres and large industrial users; = 450 MVA built + addition
+GCS 2020-2029,Median,2029,800,MVA (addition to 450 MVA currently built),Table 5,pdf p32,Data centres and large industrial users
+GCS 2020-2029,Median,2029,"1,250",MVA (overall 2029 demand),Table 5,pdf p32,Data centres and large industrial users; = 450 MVA built + addition
+GCS 2020-2029,High,2029,"1,320",MVA (addition to 450 MVA currently built),Table 5,pdf p32,Data centres and large industrial users
+GCS 2020-2029,High,2029,"1,770",MVA (overall 2029 demand),Table 5,pdf p32,Data centres and large industrial users; = 450 MVA built + addition
+GCS 2020-2029,Median,2029,27,% of TER,Figure 9 caption; summary text,pdf p34,'27% of total demand will come from data centres by 2029'; also pdf p19
+GCS 2021-2030,All,,approximately 1700,MVA,Section 2.2.4 text,pdf p26,Contracted to data centres and other large energy users already connected; average load approx. 30% of contracted Maximum Import Capacity
+GCS 2021-2030,All,,approximately 30,% of contracted MIC,Section 2.2.4 text,pdf p26,Average load currently drawn
+GCS 2021-2030,Low,2030,390,MW (addition to 520 MW currently built),Table 2,pdf p26,Data centres and new large energy users; NOTE unit printed as MW in this edition (MVA in others)
+GCS 2021-2030,Low,2030,910,MW (overall 2030 demand),Table 2,pdf p26,Data centres and new large energy users; = 520 MW built + addition
+GCS 2021-2030,Median,2030,770,MW (addition to 520 MW currently built),Table 2,pdf p26,Data centres and new large energy users; NOTE unit printed as MW in this edition (MVA in others)
+GCS 2021-2030,Median,2030,"1,290",MW (overall 2030 demand),Table 2,pdf p26,Data centres and new large energy users; = 520 MW built + addition
+GCS 2021-2030,High,2030,"1,360",MW (addition to 520 MW currently built),Table 2,pdf p26,Data centres and new large energy users; NOTE unit printed as MW in this edition (MVA in others)
+GCS 2021-2030,High,2030,"1,880",MW (overall 2030 demand),Table 2,pdf p26,Data centres and new large energy users; = 520 MW built + addition
+GCS 2021-2030,Median,2030,23,% of TER,Summary text,pdf p13,'demand from data centres could account for 23% of all demand in Ireland by 2030' (asterisked)
+GCS 2021-2030,Median,2030,27,% of TER,Figure 10 caption,pdf p28,'27% of total demand will come from data centres and large energy users by 2030' (differs from 23% in summary)
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",All,,"approximately 1,700",MVA,Part A section 5 text; Part B section 2.2.4,pdf p8,Contracted to data centres and other new large energy users at transmission level
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",All,,a further 600,MVA,Part A section 5 text; Part B section 2.2.4,pdf p8,Contracted at distribution level
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",All,,approximately 34,% of contracted capacity,Part A section 5 text,pdf p8,Average load currently drawn
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",All,2022,600,MVA,Table 1 (Part A) / Table 2.2 (Part B) captions,pdf p30,Data centre and new tech load demand assumed for 2022 (base for additions)
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",Low,2031,425,MVA (addition to 600 MVA assumed for 2022),Table 2.2 (Part B); also Table 1 Part A pdf p8,pdf p30,Data centres and new tech loads
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",Low,2031,1025,MVA (overall 2031 demand),Table 2.2 (Part B); also Table 1 Part A pdf p8,pdf p30,Data centres and new tech loads
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",Median,2031,891,MVA (addition to 600 MVA assumed for 2022),Table 2.2 (Part B); also Table 1 Part A pdf p8,pdf p30,Data centres and new tech loads
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",Median,2031,1491,MVA (overall 2031 demand),Table 2.2 (Part B); also Table 1 Part A pdf p8,pdf p30,Data centres and new tech loads
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",High,2031,1395,MVA (addition to 600 MVA assumed for 2022),Table 2.2 (Part B); also Table 1 Part A pdf p8,pdf p30,Data centres and new tech loads
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",High,2031,1995,MVA (overall 2031 demand),Table 2.2 (Part B); also Table 1 Part A pdf p8,pdf p30,Data centres and new tech loads
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",Median,2031,28,% of TER,Figure 2.5 caption; Part A pdf p9,pdf p32,'28% of total demand will come from data centres and new tech loads by 2031'
+GCS 2023-2032,All,,approximately 2000,MVA,Section 1.5 text,pdf p16,Contracted to data centres and new technology loads at transmission level
+GCS 2023-2032,All,,approximately a further 300,MVA,Section 1.5 text,pdf p16,Contracted at 110 kV distribution level
+GCS 2023-2032,All,2022,734,MVA,Table 1 / Table 4.2 captions,pdf p16,Existing data centre and new large energy user demand by end of 2022
+GCS 2023-2032,Low,2032,304,MVA (growth from 2022 to 2032),Table 1 (Part A); Table 4.2 pdf p51,pdf p16,Data centres and new large energy users / new technology loads
+GCS 2023-2032,Low,2032,"1,038",MVA (2032 demand),Table 1 (Part A); Table 4.2 pdf p51,pdf p16,Data centres and new large energy users / new technology loads
+GCS 2023-2032,Median,2032,810,MVA (growth from 2022 to 2032),Table 1 (Part A); Table 4.2 pdf p51,pdf p16,Data centres and new large energy users / new technology loads
+GCS 2023-2032,Median,2032,"1,543",MVA (2032 demand),Table 1 (Part A); Table 4.2 pdf p51,pdf p16,Data centres and new large energy users / new technology loads
+GCS 2023-2032,High,2032,"1,276",MVA (growth from 2022 to 2032),Table 1 (Part A); Table 4.2 pdf p51,pdf p16,Data centres and new large energy users / new technology loads
+GCS 2023-2032,High,2032,"2,010",MVA (2032 demand),Table 1 (Part A); Table 4.2 pdf p51,pdf p16,Data centres and new large energy users / new technology loads
+GCS 2023-2032,Median,2022,16,% of TER,Figure 4.9,pdf p61,Data centres and new tech loads share of Ireland median energy requirement in 2022
+GCS 2023-2032,Median,2032,30,% of TER,Figure 4.9; Part A text pdf p18,pdf p61,Data centres and new tech loads share in 2032
+AIRAA 2025-2034,All,,approximately 2000,MVA,Part A text; section 4.2.3,pdf p13,Contracted to data centres and other new technology loads at transmission level
+AIRAA 2025-2034,All,,approximately a further 300,MVA,Part A text; section 4.2.3,pdf p13,Contracted at 110 kV distribution level
+AIRAA 2025-2034,All,2023,867,MVA,Table 4.2 caption,pdf p49,2023 data centre and new technology load demand
+AIRAA 2025-2034,Low,2034,422,MVA (growth from 2023 to 2034),Table 4.2,pdf p49,Data centres and new technology loads
+AIRAA 2025-2034,Low,2034,1289,MVA (2034 demand),Table 4.2,pdf p49,Data centres and new technology loads
+AIRAA 2025-2034,Median,2034,813,MVA (growth from 2023 to 2034),Table 4.2,pdf p49,Data centres and new technology loads
+AIRAA 2025-2034,Median,2034,1680,MVA (2034 demand),Table 4.2,pdf p49,Data centres and new technology loads
+AIRAA 2025-2034,High,2034,1200,MVA (growth from 2023 to 2034),Table 4.2,pdf p49,Data centres and new technology loads
+AIRAA 2025-2034,High,2034,2067,MVA (2034 demand),Table 4.2,pdf p49,Data centres and new technology loads
+AIRAA 2025-2034,Median,2030,31,% of TER,Part A summary text,pdf p15,'data centres and new technology loads (NTLs) which will form 31% of all electricity demand by 2030'
+AIRAA 2025-2034,Median,2030,29,% of TER,Section 4.2.8 text,pdf p56,"'by 2030, 29% of all electricity demand is expected to come from data centres and new technology loads' (conflicts with 31% in Part A)"
+AIRAA 2025-2034,Median,2025,27,% of TER,Figure 4.8,pdf p57,Share of 37.73 TWh printed as 2025 total
+AIRAA 2025-2034,Median,2034,31,% of TER,Figure 4.8,pdf p57,Share of 49.52 TWh printed as 2034 total
+AIRAA 2025-2034,Median,2025,19,% of peak demand,Figure 4.9,pdf p58,Share of 6133 MW 2025 peak
+AIRAA 2025-2034,Median,2034,24,% of peak demand,Figure 4.9,pdf p58,Share of 7124 MW 2034 peak
+AIRAA 2026-2035,All,,"approximately 2,100",MVA,Part A text; section 4.2.3 pdf p50,pdf p14,Contracted to data centres and other new technology loads at transmission level
+AIRAA 2026-2035,All,,approximately a further 300,MVA,Part A text; section 4.2.3 pdf p50,pdf p14,Contracted at 110 kV distribution level (ESB Networks)
+AIRAA 2026-2035,All,2024,959,MVA,Table 4.2 caption,pdf p52,2024 data centre and new technology load demand
+AIRAA 2026-2035,Low,2035,443,MVA (growth from 2024 to 2035),Table 4.2,pdf p52,Data centres and new technology loads
+AIRAA 2026-2035,Low,2035,1402,MVA (2035 demand),Table 4.2,pdf p52,Data centres and new technology loads
+AIRAA 2026-2035,Median,2035,911,MVA (growth from 2024 to 2035),Table 4.2,pdf p52,Data centres and new technology loads
+AIRAA 2026-2035,Median,2035,1870,MVA (2035 demand),Table 4.2,pdf p52,Data centres and new technology loads
+AIRAA 2026-2035,High,2035,1225,MVA (growth from 2024 to 2035),Table 4.2,pdf p52,Data centres and new technology loads
+AIRAA 2026-2035,High,2035,2183,MVA (2035 demand),Table 4.2,pdf p52,Data centres and new technology loads
+AIRAA 2026-2035,Median,2030,32,% of TER,Section 4.2.8 text,pdf p60,"'by 2030, 32% of all electricity demand is expected to come from data centres and new technology loads'"
+AIRAA 2026-2035,Median,2026,28,% of sector total,"Figure 4.8 (image, read visually)",pdf p61,"Share of 36.52 TWh printed as 2026 total; NOTE 36.52 TWh is below Table A2.1 median TER 2026 (39.0 TWh), so the denominator appears to exclude losses"
+AIRAA 2026-2035,Median,2035,35,% of sector total,"Figure 4.8 (image, read visually)",pdf p61,Share of 46.30 TWh printed as 2035 total; Table A2.1 median TER 2035 is 49.2 TWh

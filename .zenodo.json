@@ -1,0 +1,9 @@
+{
+  "title": "Data centre electricity outlooks against metered outcomes: Ireland, the Netherlands and Great Britain (EirGrid editions 2015-2026, CSO, CBS, DESNZ, NESO FES)",
+  "upload_type": "dataset",
+  "description": "Machine readable collection of all 11 Irish grid operator (EirGrid/SONI) demand outlook editions, 2015 to 2026, with Low, Median and High total electricity requirement by target year traced to source table and page; CSO metered data centre electricity (quarterly 2015 to 2025); CBS (Netherlands) and DESNZ (Great Britain) metered data centre electricity; NESO FES and Dutch forecast extracts; and the code and results of the accompanying paper on calibrating data centre electricity outlooks.",
+  "creators": [{"name": "Simeon, Bright Ikechukwu", "affiliation": "University of Nebraska-Lincoln", "orcid": "0000-0002-3696-5870"}],
+  "license": "cc-by-4.0",
+  "keywords": ["data centres", "electricity demand forecasting", "forecast evaluation", "conformal prediction", "EirGrid", "waste heat exergy"],
+  "version": "1.0.0"
+}

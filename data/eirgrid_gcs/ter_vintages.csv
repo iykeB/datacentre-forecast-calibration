@@ -1,0 +1,373 @@
+edition,scenario,year,ter_twh_ireland,source_table,page,printed_value,printed_unit,note
+GCS 2015-2024,Low,2014,26.648,Table A-2,pdf p52,"26,648",GWh,"first row (base/historical year): 2014 row: Figure 2-1 caption says 2014 is based on real data to October 2014 with estimates for remaining months; High table prints 26,774 for 2014 (Median/Low print 26,648)"
+GCS 2015-2024,Low,2015,26.714,Table A-2,pdf p52,"26,714",GWh,forecast
+GCS 2015-2024,Low,2016,26.780,Table A-2,pdf p52,"26,780",GWh,forecast
+GCS 2015-2024,Low,2017,26.809,Table A-2,pdf p52,"26,809",GWh,forecast
+GCS 2015-2024,Low,2018,26.837,Table A-2,pdf p52,"26,837",GWh,forecast
+GCS 2015-2024,Low,2019,26.861,Table A-2,pdf p52,"26,861",GWh,forecast
+GCS 2015-2024,Low,2020,26.861,Table A-2,pdf p52,"26,861",GWh,forecast
+GCS 2015-2024,Low,2021,26.884,Table A-2,pdf p52,"26,884",GWh,forecast
+GCS 2015-2024,Low,2022,26.963,Table A-2,pdf p52,"26,963",GWh,forecast
+GCS 2015-2024,Low,2023,27.137,Table A-2,pdf p52,"27,137",GWh,forecast
+GCS 2015-2024,Low,2024,27.317,Table A-2,pdf p52,"27,317",GWh,forecast
+GCS 2015-2024,Median,2014,26.648,Table A-1,pdf p51,"26,648",GWh,"first row (base/historical year): 2014 row: Figure 2-1 caption says 2014 is based on real data to October 2014 with estimates for remaining months; High table prints 26,774 for 2014 (Median/Low print 26,648)"
+GCS 2015-2024,Median,2015,26.915,Table A-1,pdf p51,"26,915",GWh,forecast
+GCS 2015-2024,Median,2016,27.286,Table A-1,pdf p51,"27,286",GWh,forecast
+GCS 2015-2024,Median,2017,27.715,Table A-1,pdf p51,"27,715",GWh,forecast
+GCS 2015-2024,Median,2018,28.152,Table A-1,pdf p51,"28,152",GWh,forecast
+GCS 2015-2024,Median,2019,28.613,Table A-1,pdf p51,"28,613",GWh,forecast
+GCS 2015-2024,Median,2020,28.973,Table A-1,pdf p51,"28,973",GWh,forecast
+GCS 2015-2024,Median,2021,29.250,Table A-1,pdf p51,"29,250",GWh,forecast
+GCS 2015-2024,Median,2022,29.532,Table A-1,pdf p51,"29,532",GWh,forecast
+GCS 2015-2024,Median,2023,29.852,Table A-1,pdf p51,"29,852",GWh,forecast
+GCS 2015-2024,Median,2024,30.179,Table A-1,pdf p51,"30,179",GWh,forecast
+GCS 2015-2024,High,2014,26.774,Table A-3,pdf p52,"26,774",GWh,"first row (base/historical year): 2014 row: Figure 2-1 caption says 2014 is based on real data to October 2014 with estimates for remaining months; High table prints 26,774 for 2014 (Median/Low print 26,648)"
+GCS 2015-2024,High,2015,27.041,Table A-3,pdf p52,"27,041",GWh,forecast
+GCS 2015-2024,High,2016,27.412,Table A-3,pdf p52,"27,412",GWh,forecast
+GCS 2015-2024,High,2017,27.841,Table A-3,pdf p52,"27,841",GWh,forecast
+GCS 2015-2024,High,2018,28.278,Table A-3,pdf p52,"28,278",GWh,forecast
+GCS 2015-2024,High,2019,28.739,Table A-3,pdf p52,"28,739",GWh,forecast
+GCS 2015-2024,High,2020,29.099,Table A-3,pdf p52,"29,099",GWh,forecast
+GCS 2015-2024,High,2021,29.376,Table A-3,pdf p52,"29,376",GWh,forecast
+GCS 2015-2024,High,2022,29.658,Table A-3,pdf p52,"29,658",GWh,forecast
+GCS 2015-2024,High,2023,29.978,Table A-3,pdf p52,"29,978",GWh,forecast
+GCS 2015-2024,High,2024,30.305,Table A-3,pdf p52,"30,305",GWh,forecast
+GCS 2016-2025,Low,2015,27.425,Table A-2,pdf p63,"27,425",GWh,first row (base/historical year): 2015 row: Figure 2-3 caption says 2015 is based on real data to October 2015 with estimates for remaining months
+GCS 2016-2025,Low,2016,27.761,Table A-2,pdf p63,"27,761",GWh,forecast
+GCS 2016-2025,Low,2017,28.213,Table A-2,pdf p63,"28,213",GWh,forecast
+GCS 2016-2025,Low,2018,28.651,Table A-2,pdf p63,"28,651",GWh,forecast
+GCS 2016-2025,Low,2019,29.094,Table A-2,pdf p63,"29,094",GWh,forecast
+GCS 2016-2025,Low,2020,29.416,Table A-2,pdf p63,"29,416",GWh,forecast
+GCS 2016-2025,Low,2021,29.828,Table A-2,pdf p63,"29,828",GWh,forecast
+GCS 2016-2025,Low,2022,30.233,Table A-2,pdf p63,"30,233",GWh,forecast
+GCS 2016-2025,Low,2023,30.664,Table A-2,pdf p63,"30,664",GWh,forecast
+GCS 2016-2025,Low,2024,31.089,Table A-2,pdf p63,"31,089",GWh,forecast
+GCS 2016-2025,Low,2025,31.489,Table A-2,pdf p63,"31,489",GWh,forecast
+GCS 2016-2025,Median,2015,27.425,Table A-1,pdf p62,"27,425",GWh,first row (base/historical year): 2015 row: Figure 2-3 caption says 2015 is based on real data to October 2015 with estimates for remaining months
+GCS 2016-2025,Median,2016,27.989,Table A-1,pdf p62,"27,989",GWh,forecast
+GCS 2016-2025,Median,2017,28.899,Table A-1,pdf p62,"28,899",GWh,forecast
+GCS 2016-2025,Median,2018,29.566,Table A-1,pdf p62,"29,566",GWh,forecast
+GCS 2016-2025,Median,2019,30.159,Table A-1,pdf p62,"30,159",GWh,forecast
+GCS 2016-2025,Median,2020,30.681,Table A-1,pdf p62,"30,681",GWh,forecast
+GCS 2016-2025,Median,2021,31.238,Table A-1,pdf p62,"31,238",GWh,forecast
+GCS 2016-2025,Median,2022,31.788,Table A-1,pdf p62,"31,788",GWh,forecast
+GCS 2016-2025,Median,2023,32.365,Table A-1,pdf p62,"32,365",GWh,forecast
+GCS 2016-2025,Median,2024,32.934,Table A-1,pdf p62,"32,934",GWh,forecast
+GCS 2016-2025,Median,2025,33.480,Table A-1,pdf p62,"33,480",GWh,forecast
+GCS 2016-2025,High,2015,27.425,Table A-3,pdf p63,"27,425",GWh,first row (base/historical year): 2015 row: Figure 2-3 caption says 2015 is based on real data to October 2015 with estimates for remaining months
+GCS 2016-2025,High,2016,27.989,Table A-3,pdf p63,"27,989",GWh,forecast
+GCS 2016-2025,High,2017,28.899,Table A-3,pdf p63,"28,899",GWh,forecast
+GCS 2016-2025,High,2018,29.566,Table A-3,pdf p63,"29,566",GWh,forecast
+GCS 2016-2025,High,2019,30.559,Table A-3,pdf p63,"30,559",GWh,forecast
+GCS 2016-2025,High,2020,31.746,Table A-3,pdf p63,"31,746",GWh,forecast
+GCS 2016-2025,High,2021,32.819,Table A-3,pdf p63,"32,819",GWh,forecast
+GCS 2016-2025,High,2022,33.884,Table A-3,pdf p63,"33,884",GWh,forecast
+GCS 2016-2025,High,2023,34.976,Table A-3,pdf p63,"34,976",GWh,forecast
+GCS 2016-2025,High,2024,36.061,Table A-3,pdf p63,"36,061",GWh,forecast
+GCS 2016-2025,High,2025,37.122,Table A-3,pdf p63,"37,122",GWh,forecast
+GCS 2017-2026,Low,2015,27.6,Table A-2,pdf p61,27.6,TWh,first row (base/historical year): 2015 row is historical (same in all scenarios); 2016 is partly estimated (Figure 2-2 caption: real data to October 2016) yet differs by scenario
+GCS 2017-2026,Low,2016,28.1,Table A-2,pdf p61,28.1,TWh,forecast
+GCS 2017-2026,Low,2017,28.5,Table A-2,pdf p61,28.5,TWh,forecast
+GCS 2017-2026,Low,2018,28.9,Table A-2,pdf p61,28.9,TWh,forecast
+GCS 2017-2026,Low,2019,29.4,Table A-2,pdf p61,29.4,TWh,forecast
+GCS 2017-2026,Low,2020,30.0,Table A-2,pdf p61,30.0,TWh,forecast
+GCS 2017-2026,Low,2021,30.3,Table A-2,pdf p61,30.3,TWh,forecast
+GCS 2017-2026,Low,2022,30.7,Table A-2,pdf p61,30.7,TWh,forecast
+GCS 2017-2026,Low,2023,31.1,Table A-2,pdf p61,31.1,TWh,forecast
+GCS 2017-2026,Low,2024,31.6,Table A-2,pdf p61,31.6,TWh,forecast
+GCS 2017-2026,Low,2025,31.9,Table A-2,pdf p61,31.9,TWh,forecast
+GCS 2017-2026,Low,2026,32.4,Table A-2,pdf p61,32.4,TWh,forecast
+GCS 2017-2026,Median,2015,27.6,Table A-1,pdf p60,27.6,TWh,first row (base/historical year): 2015 row is historical (same in all scenarios); 2016 is partly estimated (Figure 2-2 caption: real data to October 2016) yet differs by scenario
+GCS 2017-2026,Median,2016,28.2,Table A-1,pdf p60,28.2,TWh,forecast
+GCS 2017-2026,Median,2017,28.7,Table A-1,pdf p60,28.7,TWh,forecast
+GCS 2017-2026,Median,2018,29.6,Table A-1,pdf p60,29.6,TWh,forecast
+GCS 2017-2026,Median,2019,30.3,Table A-1,pdf p60,30.3,TWh,forecast
+GCS 2017-2026,Median,2020,31.2,Table A-1,pdf p60,31.2,TWh,forecast
+GCS 2017-2026,Median,2021,31.8,Table A-1,pdf p60,31.8,TWh,forecast
+GCS 2017-2026,Median,2022,32.4,Table A-1,pdf p60,32.4,TWh,forecast
+GCS 2017-2026,Median,2023,32.9,Table A-1,pdf p60,32.9,TWh,forecast
+GCS 2017-2026,Median,2024,33.4,Table A-1,pdf p60,33.4,TWh,forecast
+GCS 2017-2026,Median,2025,33.7,Table A-1,pdf p60,33.7,TWh,forecast
+GCS 2017-2026,Median,2026,34.2,Table A-1,pdf p60,34.2,TWh,forecast
+GCS 2017-2026,High,2015,27.6,Table A-3,pdf p62,27.6,TWh,first row (base/historical year): 2015 row is historical (same in all scenarios); 2016 is partly estimated (Figure 2-2 caption: real data to October 2016) yet differs by scenario
+GCS 2017-2026,High,2016,28.3,Table A-3,pdf p62,28.3,TWh,forecast
+GCS 2017-2026,High,2017,28.8,Table A-3,pdf p62,28.8,TWh,forecast
+GCS 2017-2026,High,2018,29.6,Table A-3,pdf p62,29.6,TWh,forecast
+GCS 2017-2026,High,2019,31.1,Table A-3,pdf p62,31.1,TWh,forecast
+GCS 2017-2026,High,2020,32.6,Table A-3,pdf p62,32.6,TWh,forecast
+GCS 2017-2026,High,2021,34.1,Table A-3,pdf p62,34.1,TWh,forecast
+GCS 2017-2026,High,2022,35.2,Table A-3,pdf p62,35.2,TWh,forecast
+GCS 2017-2026,High,2023,36.2,Table A-3,pdf p62,36.2,TWh,forecast
+GCS 2017-2026,High,2024,37.2,Table A-3,pdf p62,37.2,TWh,forecast
+GCS 2017-2026,High,2025,37.8,Table A-3,pdf p62,37.8,TWh,forecast
+GCS 2017-2026,High,2026,38.4,Table A-3,pdf p62,38.4,TWh,forecast
+GCS 2018-2027,Low,2017,28.8,Table A-2,pdf p56,28.8,TWh,"first row (base/historical year): 2017 row is the base year (same in all scenarios, no growth rate printed); status (outturn or estimate) not stated"
+GCS 2018-2027,Low,2018,29.4,Table A-2,pdf p56,29.4,TWh,forecast
+GCS 2018-2027,Low,2019,29.5,Table A-2,pdf p56,29.5,TWh,forecast
+GCS 2018-2027,Low,2020,30.4,Table A-2,pdf p56,30.4,TWh,forecast
+GCS 2018-2027,Low,2021,31.3,Table A-2,pdf p56,31.3,TWh,forecast
+GCS 2018-2027,Low,2022,32.4,Table A-2,pdf p56,32.4,TWh,forecast
+GCS 2018-2027,Low,2023,33.3,Table A-2,pdf p56,33.3,TWh,forecast
+GCS 2018-2027,Low,2024,33.9,Table A-2,pdf p56,33.9,TWh,forecast
+GCS 2018-2027,Low,2025,34.1,Table A-2,pdf p56,34.1,TWh,forecast
+GCS 2018-2027,Low,2026,34.4,Table A-2,pdf p56,34.4,TWh,forecast
+GCS 2018-2027,Low,2027,34.5,Table A-2,pdf p56,34.5,TWh,forecast
+GCS 2018-2027,Median,2017,28.8,Table A-1,pdf p56,28.8,TWh,"first row (base/historical year): 2017 row is the base year (same in all scenarios, no growth rate printed); status (outturn or estimate) not stated"
+GCS 2018-2027,Median,2018,29.5,Table A-1,pdf p56,29.5,TWh,forecast
+GCS 2018-2027,Median,2019,30.6,Table A-1,pdf p56,30.6,TWh,forecast
+GCS 2018-2027,Median,2020,32.2,Table A-1,pdf p56,32.2,TWh,forecast
+GCS 2018-2027,Median,2021,33.8,Table A-1,pdf p56,33.8,TWh,forecast
+GCS 2018-2027,Median,2022,36.2,Table A-1,pdf p56,36.2,TWh,forecast
+GCS 2018-2027,Median,2023,38.3,Table A-1,pdf p56,38.3,TWh,forecast
+GCS 2018-2027,Median,2024,39.4,Table A-1,pdf p56,39.4,TWh,forecast
+GCS 2018-2027,Median,2025,39.9,Table A-1,pdf p56,39.9,TWh,forecast
+GCS 2018-2027,Median,2026,40.4,Table A-1,pdf p56,40.4,TWh,forecast
+GCS 2018-2027,Median,2027,40.7,Table A-1,pdf p56,40.7,TWh,forecast
+GCS 2018-2027,High,2017,28.8,Table A-3,pdf p57,28.8,TWh,"first row (base/historical year): 2017 row is the base year (same in all scenarios, no growth rate printed); status (outturn or estimate) not stated"
+GCS 2018-2027,High,2018,29.0,Table A-3,pdf p57,29.0,TWh,forecast
+GCS 2018-2027,High,2019,30.8,Table A-3,pdf p57,30.8,TWh,forecast
+GCS 2018-2027,High,2020,33.4,Table A-3,pdf p57,33.4,TWh,forecast
+GCS 2018-2027,High,2021,35.6,Table A-3,pdf p57,35.6,TWh,forecast
+GCS 2018-2027,High,2022,39.1,Table A-3,pdf p57,39.1,TWh,forecast
+GCS 2018-2027,High,2023,42.0,Table A-3,pdf p57,42.0,TWh,forecast
+GCS 2018-2027,High,2024,43.7,Table A-3,pdf p57,43.7,TWh,forecast
+GCS 2018-2027,High,2025,44.2,Table A-3,pdf p57,44.2,TWh,forecast
+GCS 2018-2027,High,2026,44.8,Table A-3,pdf p57,44.8,TWh,forecast
+GCS 2018-2027,High,2027,45.2,Table A-3,pdf p57,45.2,TWh,forecast
+GCS 2019-2028,Low,2018,29.8,Table A-2,pdf p62,29.8,TWh,first row (base/historical year): 2018 row is the base year (same in all scenarios); only the Northern Ireland peak figures carry the provisional asterisk
+GCS 2019-2028,Low,2019,30.9,Table A-2,pdf p62,30.9,TWh,forecast
+GCS 2019-2028,Low,2020,32.0,Table A-2,pdf p62,32.0,TWh,forecast
+GCS 2019-2028,Low,2021,32.8,Table A-2,pdf p62,32.8,TWh,forecast
+GCS 2019-2028,Low,2022,33.7,Table A-2,pdf p62,33.7,TWh,forecast
+GCS 2019-2028,Low,2023,34.6,Table A-2,pdf p62,34.6,TWh,forecast
+GCS 2019-2028,Low,2024,35.4,Table A-2,pdf p62,35.4,TWh,forecast
+GCS 2019-2028,Low,2025,36.0,Table A-2,pdf p62,36.0,TWh,forecast
+GCS 2019-2028,Low,2026,36.8,Table A-2,pdf p62,36.8,TWh,forecast
+GCS 2019-2028,Low,2027,37.5,Table A-2,pdf p62,37.5,TWh,forecast
+GCS 2019-2028,Low,2028,38.1,Table A-2,pdf p62,38.1,TWh,forecast
+GCS 2019-2028,Median,2018,29.8,Table A-1,pdf p62,29.8,TWh,first row (base/historical year): 2018 row is the base year (same in all scenarios); only the Northern Ireland peak figures carry the provisional asterisk
+GCS 2019-2028,Median,2019,30.9,Table A-1,pdf p62,30.9,TWh,forecast
+GCS 2019-2028,Median,2020,32.3,Table A-1,pdf p62,32.3,TWh,forecast
+GCS 2019-2028,Median,2021,33.3,Table A-1,pdf p62,33.3,TWh,forecast
+GCS 2019-2028,Median,2022,34.7,Table A-1,pdf p62,34.7,TWh,forecast
+GCS 2019-2028,Median,2023,36.2,Table A-1,pdf p62,36.2,TWh,forecast
+GCS 2019-2028,Median,2024,37.4,Table A-1,pdf p62,37.4,TWh,forecast
+GCS 2019-2028,Median,2025,38.0,Table A-1,pdf p62,38.0,TWh,forecast
+GCS 2019-2028,Median,2026,38.9,Table A-1,pdf p62,38.9,TWh,forecast
+GCS 2019-2028,Median,2027,39.6,Table A-1,pdf p62,39.6,TWh,forecast
+GCS 2019-2028,Median,2028,40.2,Table A-1,pdf p62,40.2,TWh,forecast
+GCS 2019-2028,High,2018,29.8,Table A-3,pdf p63,29.8,TWh,first row (base/historical year): 2018 row is the base year (same in all scenarios); only the Northern Ireland peak figures carry the provisional asterisk
+GCS 2019-2028,High,2019,31.0,Table A-3,pdf p63,31.0,TWh,forecast
+GCS 2019-2028,High,2020,32.5,Table A-3,pdf p63,32.5,TWh,forecast
+GCS 2019-2028,High,2021,34.1,Table A-3,pdf p63,34.1,TWh,forecast
+GCS 2019-2028,High,2022,36.6,Table A-3,pdf p63,36.6,TWh,forecast
+GCS 2019-2028,High,2023,39.1,Table A-3,pdf p63,39.1,TWh,forecast
+GCS 2019-2028,High,2024,41.2,Table A-3,pdf p63,41.2,TWh,forecast
+GCS 2019-2028,High,2025,42.4,Table A-3,pdf p63,42.4,TWh,forecast
+GCS 2019-2028,High,2026,43.7,Table A-3,pdf p63,43.7,TWh,forecast
+GCS 2019-2028,High,2027,44.8,Table A-3,pdf p63,44.8,TWh,forecast
+GCS 2019-2028,High,2028,45.5,Table A-3,pdf p63,45.5,TWh,forecast
+GCS 2020-2029,Low,2019,30.5,Table A-2,pdf p72,30.5*,TWh,first row (base/historical year): 2019 row printed as 30.5* where * = 'Figure is provisional'
+GCS 2020-2029,Low,2020,31.0,Table A-2,pdf p72,31.0,TWh,forecast
+GCS 2020-2029,Low,2021,31.5,Table A-2,pdf p72,31.5,TWh,forecast
+GCS 2020-2029,Low,2022,32.1,Table A-2,pdf p72,32.1,TWh,forecast
+GCS 2020-2029,Low,2023,32.9,Table A-2,pdf p72,32.9,TWh,forecast
+GCS 2020-2029,Low,2024,33.7,Table A-2,pdf p72,33.7,TWh,forecast
+GCS 2020-2029,Low,2025,34.2,Table A-2,pdf p72,34.2,TWh,forecast
+GCS 2020-2029,Low,2026,34.9,Table A-2,pdf p72,34.9,TWh,forecast
+GCS 2020-2029,Low,2027,35.4,Table A-2,pdf p72,35.4,TWh,forecast
+GCS 2020-2029,Low,2028,36.0,Table A-2,pdf p72,36.0,TWh,forecast
+GCS 2020-2029,Low,2029,36.4,Table A-2,pdf p72,36.4,TWh,forecast
+GCS 2020-2029,Median,2019,30.5,Table A-1,pdf p72,30.5*,TWh,first row (base/historical year): 2019 row printed as 30.5* where * = 'Figure is provisional'
+GCS 2020-2029,Median,2020,31.4,Table A-1,pdf p72,31.4,TWh,forecast
+GCS 2020-2029,Median,2021,32.7,Table A-1,pdf p72,32.7,TWh,forecast
+GCS 2020-2029,Median,2022,34.3,Table A-1,pdf p72,34.3,TWh,forecast
+GCS 2020-2029,Median,2023,35.3,Table A-1,pdf p72,35.3,TWh,forecast
+GCS 2020-2029,Median,2024,36.5,Table A-1,pdf p72,36.5,TWh,forecast
+GCS 2020-2029,Median,2025,37.2,Table A-1,pdf p72,37.2,TWh,forecast
+GCS 2020-2029,Median,2026,38.1,Table A-1,pdf p72,38.1,TWh,forecast
+GCS 2020-2029,Median,2027,39.0,Table A-1,pdf p72,39.0,TWh,forecast
+GCS 2020-2029,Median,2028,40.0,Table A-1,pdf p72,40.0,TWh,forecast
+GCS 2020-2029,Median,2029,40.7,Table A-1,pdf p72,40.7,TWh,forecast
+GCS 2020-2029,High,2019,30.5,Table A-3,pdf p73,30.5*,TWh,first row (base/historical year): 2019 row printed as 30.5* where * = 'Figure is provisional'
+GCS 2020-2029,High,2020,31.9,Table A-3,pdf p73,31.9,TWh,forecast
+GCS 2020-2029,High,2021,33.8,Table A-3,pdf p73,33.8,TWh,forecast
+GCS 2020-2029,High,2022,36.3,Table A-3,pdf p73,36.3,TWh,forecast
+GCS 2020-2029,High,2023,37.5,Table A-3,pdf p73,37.5,TWh,forecast
+GCS 2020-2029,High,2024,39.1,Table A-3,pdf p73,39.1,TWh,forecast
+GCS 2020-2029,High,2025,40.4,Table A-3,pdf p73,40.4,TWh,forecast
+GCS 2020-2029,High,2026,41.9,Table A-3,pdf p73,41.9,TWh,forecast
+GCS 2020-2029,High,2027,43.3,Table A-3,pdf p73,43.3,TWh,forecast
+GCS 2020-2029,High,2028,44.8,Table A-3,pdf p73,44.8,TWh,forecast
+GCS 2020-2029,High,2029,45.9,Table A-3,pdf p73,45.9,TWh,forecast
+GCS 2021-2030,Low,2020,30.8,Table A-2,pdf p79,30.8,TWh,"first row (base/historical year): 2020 row is the base year (same in all scenarios, printed growth 1.3%); Table A-1 caption carries a 'Figure is provisional' footnote but no asterisk appears in the extracted rows"
+GCS 2021-2030,Low,2021,31.6,Table A-2,pdf p79,31.6,TWh,forecast
+GCS 2021-2030,Low,2022,32.2,Table A-2,pdf p79,32.2,TWh,forecast
+GCS 2021-2030,Low,2023,33.4,Table A-2,pdf p79,33.4,TWh,forecast
+GCS 2021-2030,Low,2024,34.1,Table A-2,pdf p79,34.1,TWh,forecast
+GCS 2021-2030,Low,2025,34.5,Table A-2,pdf p79,34.5,TWh,forecast
+GCS 2021-2030,Low,2026,35.0,Table A-2,pdf p79,35.0,TWh,forecast
+GCS 2021-2030,Low,2027,35.5,Table A-2,pdf p79,35.5,TWh,forecast
+GCS 2021-2030,Low,2028,36.2,Table A-2,pdf p79,36.2,TWh,forecast
+GCS 2021-2030,Low,2029,36.6,Table A-2,pdf p79,36.6,TWh,forecast
+GCS 2021-2030,Low,2030,37.1,Table A-2,pdf p79,37.1,TWh,forecast
+GCS 2021-2030,Median,2020,30.8,Table A-1,pdf p78,30.8,TWh,"first row (base/historical year): 2020 row is the base year (same in all scenarios, printed growth 1.3%); Table A-1 caption carries a 'Figure is provisional' footnote but no asterisk appears in the extracted rows"
+GCS 2021-2030,Median,2021,32.1,Table A-1,pdf p78,32.1,TWh,forecast
+GCS 2021-2030,Median,2022,33.3,Table A-1,pdf p78,33.3,TWh,forecast
+GCS 2021-2030,Median,2023,34.7,Table A-1,pdf p78,34.7,TWh,forecast
+GCS 2021-2030,Median,2024,35.8,Table A-1,pdf p78,35.8,TWh,forecast
+GCS 2021-2030,Median,2025,36.4,Table A-1,pdf p78,36.4,TWh,forecast
+GCS 2021-2030,Median,2026,37.5,Table A-1,pdf p78,37.5,TWh,forecast
+GCS 2021-2030,Median,2027,38.4,Table A-1,pdf p78,38.4,TWh,forecast
+GCS 2021-2030,Median,2028,39.3,Table A-1,pdf p78,39.3,TWh,forecast
+GCS 2021-2030,Median,2029,40.1,Table A-1,pdf p78,40.1,TWh,forecast
+GCS 2021-2030,Median,2030,40.9,Table A-1,pdf p78,40.9,TWh,forecast
+GCS 2021-2030,High,2020,30.8,Table A-3,pdf p80,30.8,TWh,"first row (base/historical year): 2020 row is the base year (same in all scenarios, printed growth 1.3%); Table A-1 caption carries a 'Figure is provisional' footnote but no asterisk appears in the extracted rows"
+GCS 2021-2030,High,2021,32.6,Table A-3,pdf p80,32.6,TWh,forecast
+GCS 2021-2030,High,2022,34.4,Table A-3,pdf p80,34.4,TWh,forecast
+GCS 2021-2030,High,2023,36.6,Table A-3,pdf p80,36.6,TWh,forecast
+GCS 2021-2030,High,2024,38.4,Table A-3,pdf p80,38.4,TWh,forecast
+GCS 2021-2030,High,2025,39.6,Table A-3,pdf p80,39.6,TWh,forecast
+GCS 2021-2030,High,2026,41.0,Table A-3,pdf p80,41.0,TWh,forecast
+GCS 2021-2030,High,2027,42.5,Table A-3,pdf p80,42.5,TWh,forecast
+GCS 2021-2030,High,2028,44.1,Table A-3,pdf p80,44.1,TWh,forecast
+GCS 2021-2030,High,2029,45.3,Table A-3,pdf p80,45.3,TWh,forecast
+GCS 2021-2030,High,2030,46.5,Table A-3,pdf p80,46.5,TWh,forecast
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",Low,2021,31.7,Table A1-2,pdf p75,31.7,TWh,"first row (base/historical year): 2021 row is the base year (same in all scenarios, no growth rate printed)"
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",Low,2022,33.0,Table A1-2,pdf p75,33.0,TWh,forecast
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",Low,2023,34.1,Table A1-2,pdf p75,34.1,TWh,forecast
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",Low,2024,35.4,Table A1-2,pdf p75,35.4,TWh,forecast
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",Low,2025,36.0,Table A1-2,pdf p75,36.0,TWh,forecast
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",Low,2026,37.0,Table A1-2,pdf p75,37.0,TWh,forecast
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",Low,2027,37.8,Table A1-2,pdf p75,37.8,TWh,forecast
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",Low,2028,38.6,Table A1-2,pdf p75,38.6,TWh,forecast
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",Low,2029,39.3,Table A1-2,pdf p75,39.3,TWh,forecast
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",Low,2030,40.0,Table A1-2,pdf p75,40.0,TWh,forecast
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",Low,2031,40.6,Table A1-2,pdf p75,40.6,TWh,forecast
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",Median,2021,31.7,Table A1-1,pdf p74,31.7,TWh,"first row (base/historical year): 2021 row is the base year (same in all scenarios, no growth rate printed)"
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",Median,2022,33.7,Table A1-1,pdf p74,33.7,TWh,forecast
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",Median,2023,35.7,Table A1-1,pdf p74,35.7,TWh,forecast
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",Median,2024,37.5,Table A1-1,pdf p74,37.5,TWh,forecast
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",Median,2025,38.5,Table A1-1,pdf p74,38.5,TWh,forecast
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",Median,2026,39.9,Table A1-1,pdf p74,39.9,TWh,forecast
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",Median,2027,41.3,Table A1-1,pdf p74,41.3,TWh,forecast
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",Median,2028,42.7,Table A1-1,pdf p74,42.7,TWh,forecast
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",Median,2029,43.9,Table A1-1,pdf p74,43.9,TWh,forecast
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",Median,2030,45.1,Table A1-1,pdf p74,45.1,TWh,forecast
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",Median,2031,46.1,Table A1-1,pdf p74,46.1,TWh,forecast
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",High,2021,31.7,Table A1-3,pdf p76,31.7,TWh,"first row (base/historical year): 2021 row is the base year (same in all scenarios, no growth rate printed)"
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",High,2022,34.4,Table A1-3,pdf p76,34.4,TWh,forecast
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",High,2023,37.2,Table A1-3,pdf p76,37.2,TWh,forecast
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",High,2024,40.1,Table A1-3,pdf p76,40.1,TWh,forecast
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",High,2025,41.6,Table A1-3,pdf p76,41.6,TWh,forecast
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",High,2026,43.6,Table A1-3,pdf p76,43.6,TWh,forecast
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",High,2027,45.6,Table A1-3,pdf p76,45.6,TWh,forecast
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",High,2028,47.4,Table A1-3,pdf p76,47.4,TWh,forecast
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",High,2029,48.8,Table A1-3,pdf p76,48.8,TWh,forecast
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",High,2030,50.1,Table A1-3,pdf p76,50.1,TWh,forecast
+"GCS 2022-2031 (in Ireland Capacity Outlook 2022-2031, Part B)",High,2031,51.2,Table A1-3,pdf p76,51.2,TWh,forecast
+GCS 2023-2032,Low,2022,33.3,Table A1-2,pdf p126,33.3,TWh,"first row (base/historical year): 2022 row: footnotes 88-90 say 2022 data for Ireland consists of some assumed data (accurate figures not available at data freeze); High prints 33.4, Median/Low 33.3"
+GCS 2023-2032,Low,2023,34.3,Table A1-2,pdf p126,34.3,TWh,forecast
+GCS 2023-2032,Low,2024,34.9,Table A1-2,pdf p126,34.9,TWh,forecast
+GCS 2023-2032,Low,2025,35.6,Table A1-2,pdf p126,35.6,TWh,forecast
+GCS 2023-2032,Low,2026,36.2,Table A1-2,pdf p126,36.2,TWh,forecast
+GCS 2023-2032,Low,2027,37.1,Table A1-2,pdf p126,37.1,TWh,forecast
+GCS 2023-2032,Low,2028,37.8,Table A1-2,pdf p126,37.8,TWh,forecast
+GCS 2023-2032,Low,2029,38.5,Table A1-2,pdf p126,38.5,TWh,forecast
+GCS 2023-2032,Low,2030,39.2,Table A1-2,pdf p126,39.2,TWh,forecast
+GCS 2023-2032,Low,2031,40.0,Table A1-2,pdf p126,40.0,TWh,forecast
+GCS 2023-2032,Low,2032,40.9,Table A1-2,pdf p126,40.9,TWh,forecast
+GCS 2023-2032,Median,2022,33.3,Table A1-1,pdf p125,33.3,TWh,"first row (base/historical year): 2022 row: footnotes 88-90 say 2022 data for Ireland consists of some assumed data (accurate figures not available at data freeze); High prints 33.4, Median/Low 33.3"
+GCS 2023-2032,Median,2023,34.9,Table A1-1,pdf p125,34.9,TWh,forecast
+GCS 2023-2032,Median,2024,36.5,Table A1-1,pdf p125,36.5,TWh,forecast
+GCS 2023-2032,Median,2025,38.0,Table A1-1,pdf p125,38.0,TWh,forecast
+GCS 2023-2032,Median,2026,39.6,Table A1-1,pdf p125,39.6,TWh,forecast
+GCS 2023-2032,Median,2027,41.0,Table A1-1,pdf p125,41.0,TWh,forecast
+GCS 2023-2032,Median,2028,42.3,Table A1-1,pdf p125,42.3,TWh,forecast
+GCS 2023-2032,Median,2029,43.5,Table A1-1,pdf p125,43.5,TWh,forecast
+GCS 2023-2032,Median,2030,44.7,Table A1-1,pdf p125,44.7,TWh,forecast
+GCS 2023-2032,Median,2031,46.2,Table A1-1,pdf p125,46.2,TWh,forecast
+GCS 2023-2032,Median,2032,47.6,Table A1-1,pdf p125,47.6,TWh,forecast
+GCS 2023-2032,High,2022,33.4,Table A1-3,pdf p127,33.4,TWh,"first row (base/historical year): 2022 row: footnotes 88-90 say 2022 data for Ireland consists of some assumed data (accurate figures not available at data freeze); High prints 33.4, Median/Low 33.3"
+GCS 2023-2032,High,2023,35.3,Table A1-3,pdf p127,35.3,TWh,forecast
+GCS 2023-2032,High,2024,37.9,Table A1-3,pdf p127,37.9,TWh,forecast
+GCS 2023-2032,High,2025,40.4,Table A1-3,pdf p127,40.4,TWh,forecast
+GCS 2023-2032,High,2026,42.6,Table A1-3,pdf p127,42.6,TWh,forecast
+GCS 2023-2032,High,2027,44.9,Table A1-3,pdf p127,44.9,TWh,forecast
+GCS 2023-2032,High,2028,46.9,Table A1-3,pdf p127,46.9,TWh,forecast
+GCS 2023-2032,High,2029,48.4,Table A1-3,pdf p127,48.4,TWh,forecast
+GCS 2023-2032,High,2030,49.8,Table A1-3,pdf p127,49.8,TWh,forecast
+GCS 2023-2032,High,2031,51.3,Table A1-3,pdf p127,51.3,TWh,forecast
+GCS 2023-2032,High,2032,52.9,Table A1-3,pdf p127,52.9,TWh,forecast
+AIRAA 2025-2034,Low,2023,34.0,Table A1.2,pdf p142,34.0,TWh,"first row (base/historical year): 2023 row is the base year (same in all scenarios, no growth rate printed); data freeze 30 April 2024"
+AIRAA 2025-2034,Low,2024,35.1,Table A1.2,pdf p142,35.1,TWh,forecast
+AIRAA 2025-2034,Low,2025,35.7,Table A1.2,pdf p142,35.7,TWh,forecast
+AIRAA 2025-2034,Low,2026,36.6,Table A1.2,pdf p142,36.6,TWh,forecast
+AIRAA 2025-2034,Low,2027,37.4,Table A1.2,pdf p142,37.4,TWh,forecast
+AIRAA 2025-2034,Low,2028,38.0,Table A1.2,pdf p142,38.0,TWh,forecast
+AIRAA 2025-2034,Low,2029,38.6,Table A1.2,pdf p142,38.6,TWh,forecast
+AIRAA 2025-2034,Low,2030,39.2,Table A1.2,pdf p142,39.2,TWh,forecast
+AIRAA 2025-2034,Low,2031,39.9,Table A1.2,pdf p142,39.9,TWh,forecast
+AIRAA 2025-2034,Low,2032,40.6,Table A1.2,pdf p142,40.6,TWh,forecast
+AIRAA 2025-2034,Low,2033,41.3,Table A1.2,pdf p142,41.3,TWh,forecast
+AIRAA 2025-2034,Low,2034,42.0,Table A1.2,pdf p142,42.0,TWh,forecast
+AIRAA 2025-2034,Median,2023,34.0,Table A1.1,pdf p141,34.0,TWh,"first row (base/historical year): 2023 row is the base year (same in all scenarios, no growth rate printed); data freeze 30 April 2024"
+AIRAA 2025-2034,Median,2024,35.8,Table A1.1,pdf p141,35.8,TWh,forecast
+AIRAA 2025-2034,Median,2025,37.7,Table A1.1,pdf p141,37.7,TWh,forecast
+AIRAA 2025-2034,Median,2026,39.5,Table A1.1,pdf p141,39.5,TWh,forecast
+AIRAA 2025-2034,Median,2027,41.1,Table A1.1,pdf p141,41.1,TWh,forecast
+AIRAA 2025-2034,Median,2028,42.4,Table A1.1,pdf p141,42.4,TWh,forecast
+AIRAA 2025-2034,Median,2029,43.5,Table A1.1,pdf p141,43.5,TWh,forecast
+AIRAA 2025-2034,Median,2030,44.7,Table A1.1,pdf p141,44.7,TWh,forecast
+AIRAA 2025-2034,Median,2031,46.0,Table A1.1,pdf p141,46.0,TWh,forecast
+AIRAA 2025-2034,Median,2032,47.2,Table A1.1,pdf p141,47.2,TWh,forecast
+AIRAA 2025-2034,Median,2033,48.4,Table A1.1,pdf p141,48.4,TWh,forecast
+AIRAA 2025-2034,Median,2034,49.5,Table A1.1,pdf p141,49.5,TWh,forecast
+AIRAA 2025-2034,High,2023,34.0,Table A1.3,pdf p143,34.0,TWh,"first row (base/historical year): 2023 row is the base year (same in all scenarios, no growth rate printed); data freeze 30 April 2024"
+AIRAA 2025-2034,High,2024,36.4,Table A1.3,pdf p143,36.4,TWh,forecast
+AIRAA 2025-2034,High,2025,39.2,Table A1.3,pdf p143,39.2,TWh,forecast
+AIRAA 2025-2034,High,2026,41.9,Table A1.3,pdf p143,41.9,TWh,forecast
+AIRAA 2025-2034,High,2027,44.1,Table A1.3,pdf p143,44.1,TWh,forecast
+AIRAA 2025-2034,High,2028,45.7,Table A1.3,pdf p143,45.7,TWh,forecast
+AIRAA 2025-2034,High,2029,47.2,Table A1.3,pdf p143,47.2,TWh,forecast
+AIRAA 2025-2034,High,2030,48.5,Table A1.3,pdf p143,48.5,TWh,forecast
+AIRAA 2025-2034,High,2031,49.8,Table A1.3,pdf p143,49.8,TWh,forecast
+AIRAA 2025-2034,High,2032,50.9,Table A1.3,pdf p143,50.9,TWh,forecast
+AIRAA 2025-2034,High,2033,51.9,Table A1.3,pdf p143,51.9,TWh,forecast
+AIRAA 2025-2034,High,2034,53.0,Table A1.3,pdf p143,53.0,TWh,forecast
+AIRAA 2026-2035,Low,2024,35.2,Table A2.2,pdf p154,35.2,TWh,first row (base/historical year): 2024 row is historic; appendix caption says 'Historic values are corrected for temperature'; data freeze 30 June 2025
+AIRAA 2026-2035,Low,2025,36.5,Table A2.2,pdf p154,36.5,TWh,forecast
+AIRAA 2026-2035,Low,2026,37.3,Table A2.2,pdf p154,37.3,TWh,forecast
+AIRAA 2026-2035,Low,2027,38.1,Table A2.2,pdf p154,38.1,TWh,forecast
+AIRAA 2026-2035,Low,2028,38.7,Table A2.2,pdf p154,38.7,TWh,forecast
+AIRAA 2026-2035,Low,2029,39.4,Table A2.2,pdf p154,39.4,TWh,forecast
+AIRAA 2026-2035,Low,2030,40.0,Table A2.2,pdf p154,40.0,TWh,forecast
+AIRAA 2026-2035,Low,2031,40.6,Table A2.2,pdf p154,40.6,TWh,forecast
+AIRAA 2026-2035,Low,2032,41.1,Table A2.2,pdf p154,41.1,TWh,forecast
+AIRAA 2026-2035,Low,2033,41.5,Table A2.2,pdf p154,41.5,TWh,forecast
+AIRAA 2026-2035,Low,2034,42.0,Table A2.2,pdf p154,42.0,TWh,forecast
+AIRAA 2026-2035,Low,2035,42.4,Table A2.2,pdf p154,42.4,TWh,forecast
+AIRAA 2026-2035,Median,2024,35.2,Table A2.1,pdf p153,35.2,TWh,first row (base/historical year): 2024 row is historic; appendix caption says 'Historic values are corrected for temperature'; data freeze 30 June 2025
+AIRAA 2026-2035,Median,2025,37.2,Table A2.1,pdf p153,37.2,TWh,forecast
+AIRAA 2026-2035,Median,2026,39.0,Table A2.1,pdf p153,39.0,TWh,forecast
+AIRAA 2026-2035,Median,2027,40.6,Table A2.1,pdf p153,40.6,TWh,forecast
+AIRAA 2026-2035,Median,2028,41.9,Table A2.1,pdf p153,41.9,TWh,forecast
+AIRAA 2026-2035,Median,2029,43.3,Table A2.1,pdf p153,43.3,TWh,forecast
+AIRAA 2026-2035,Median,2030,44.6,Table A2.1,pdf p153,44.6,TWh,forecast
+AIRAA 2026-2035,Median,2031,45.7,Table A2.1,pdf p153,45.7,TWh,forecast
+AIRAA 2026-2035,Median,2032,46.8,Table A2.1,pdf p153,46.8,TWh,forecast
+AIRAA 2026-2035,Median,2033,47.7,Table A2.1,pdf p153,47.7,TWh,forecast
+AIRAA 2026-2035,Median,2034,48.5,Table A2.1,pdf p153,48.5,TWh,forecast
+AIRAA 2026-2035,Median,2035,49.2,Table A2.1,pdf p153,49.2,TWh,forecast
+AIRAA 2026-2035,High,2024,35.2,Table A2.3,pdf p155,35.2,TWh,first row (base/historical year): 2024 row is historic; appendix caption says 'Historic values are corrected for temperature'; data freeze 30 June 2025
+AIRAA 2026-2035,High,2025,37.7,Table A2.3,pdf p155,37.7,TWh,forecast
+AIRAA 2026-2035,High,2026,40.4,Table A2.3,pdf p155,40.4,TWh,forecast
+AIRAA 2026-2035,High,2027,42.9,Table A2.3,pdf p155,42.9,TWh,forecast
+AIRAA 2026-2035,High,2028,44.9,Table A2.3,pdf p155,44.9,TWh,forecast
+AIRAA 2026-2035,High,2029,46.8,Table A2.3,pdf p155,46.8,TWh,forecast
+AIRAA 2026-2035,High,2030,48.6,Table A2.3,pdf p155,48.6,TWh,forecast
+AIRAA 2026-2035,High,2031,50.0,Table A2.3,pdf p155,50.0,TWh,forecast
+AIRAA 2026-2035,High,2032,51.3,Table A2.3,pdf p155,51.3,TWh,forecast
+AIRAA 2026-2035,High,2033,52.3,Table A2.3,pdf p155,52.3,TWh,forecast
+AIRAA 2026-2035,High,2034,53.2,Table A2.3,pdf p155,53.2,TWh,forecast
+AIRAA 2026-2035,High,2035,53.9,Table A2.3,pdf p155,53.9,TWh,forecast

@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it and the accompanying paper."
+title: "Data centre electricity outlooks against metered outcomes: Ireland, the Netherlands and Great Britain (EirGrid editions 2015-2026, CSO, CBS, DESNZ, NESO FES)"
+type: dataset
+authors:
+  - family-names: Simeon
+    given-names: Bright Ikechukwu
+    orcid: "https://orcid.org/0000-0002-3696-5870"
+    affiliation: "University of Nebraska-Lincoln"
+version: "1.0.0"
+date-released: "2026-11-11"
+license: CC-BY-4.0
+keywords: [data centres, electricity demand forecasting, forecast evaluation, conformal prediction, EirGrid, waste heat exergy]

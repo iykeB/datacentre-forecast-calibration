@@ -1,0 +1,27 @@
+year  CSO_total  TER  TER/CSO  CSO_dc  CSO_other  dc_share
+2015  24.60  27.6 1.122  1.24  23.36  5.0%
+2016  25.36   -     -    1.48  23.87  5.8%
+2017  25.73  28.8 1.119  1.76  23.96  6.8%
+2018  26.73  29.8 1.115  2.18  24.55  8.2%
+2019  26.50  30.5 1.151  2.49  24.02  9.4%
+2020  27.06  30.8 1.138  3.03  24.03 11.2%
+2021  28.51  31.7 1.112  4.01  24.49 14.1%
+2022  29.82  33.3 1.117  5.27  24.55 17.7%
+2023  30.58  34.0 1.112  6.34  24.24 20.7%
+2024  31.90  35.2 1.103  6.97  24.93 21.9%
+2025  32.99   -     -    7.66  25.32 23.2%
+
+Growth decomposition of CSO metered total since each base year (share of total growth due to data centres):
+2015 ->2024: total +7.30 TWh, data centres +5.73 TWh (78%)
+2017 ->2024: total +6.18 TWh, data centres +5.21 TWh (84%)
+2018 ->2024: total +5.17 TWh, data centres +4.79 TWh (93%)
+2019 ->2024: total +5.40 TWh, data centres +4.49 TWh (83%)
+2020 ->2024: total +4.85 TWh, data centres +3.94 TWh (81%)
+2021 ->2024: total +3.40 TWh, data centres +2.96 TWh (87%)
+2022 ->2024: total +2.08 TWh, data centres +1.70 TWh (82%)
+
+EirGrid stated data centre (+NTL) demand, MVA x 8.76 h/1000 at load factor 1, vs CSO metered:
+GCS22 assumed   2022: 600 MVA -> 5.26 TWh vs CSO 5.27 TWh (ratio 1.00)
+GCS23 end 2022  2022: 734 MVA -> 6.43 TWh vs CSO 5.27 TWh (ratio 1.22)
+AIRAA25         2023: 867 MVA -> 7.59 TWh vs CSO 6.34 TWh (ratio 1.20)
+AIRAA26         2024: 959 MVA -> 8.40 TWh vs CSO 6.97 TWh (ratio 1.20)

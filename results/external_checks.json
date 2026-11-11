@@ -1,0 +1,180 @@
+{
+ "gb_metered": {
+  "2020": 3.1589,
+  "2021": 3.4448,
+  "2022": 3.8433,
+  "2023": 4.1268,
+  "2024": 4.4595
+ },
+ "nl_metered": {
+  "2017": 1.652,
+  "2018": 2.367,
+  "2019": 2.747,
+  "2020": 3.184,
+  "2021": 3.73,
+  "2022": 4.306,
+  "2023": 4.489,
+  "2024": 5.093
+ },
+ "baseline": [
+  {
+   "country": "GB",
+   "source": "NESO FES 2022",
+   "year": 2020,
+   "stated": 3.67,
+   "metered": 3.1589,
+   "ratio": 1.1617968280097501
+  },
+  {
+   "country": "GB",
+   "source": "NESO FES 2022",
+   "year": 2021,
+   "stated": 3.795,
+   "metered": 3.4448,
+   "ratio": 1.1016604737575477
+  },
+  {
+   "country": "GB",
+   "source": "NESO FES 2023",
+   "year": 2020,
+   "stated": 3.6,
+   "metered": 3.1589,
+   "ratio": 1.1396372154864034
+  },
+  {
+   "country": "GB",
+   "source": "NESO FES 2023",
+   "year": 2021,
+   "stated": 3.812,
+   "metered": 3.4448,
+   "ratio": 1.1065954482117974
+  },
+  {
+   "country": "GB",
+   "source": "NESO FES 2023",
+   "year": 2022,
+   "stated": 3.969,
+   "metered": 3.8433,
+   "ratio": 1.0327062680508936
+  },
+  {
+   "country": "GB",
+   "source": "NESO FES 2024",
+   "year": 2023,
+   "stated": 5.0,
+   "metered": 4.1268,
+   "ratio": 1.2115925172046136
+  },
+  {
+   "country": "GB",
+   "source": "NESO FES 2025",
+   "year": 2023,
+   "stated": 7.4,
+   "metered": 4.1268,
+   "ratio": 1.7931569254628283
+  },
+  {
+   "country": "NL",
+   "source": "PBL KEV 2021",
+   "year": 2020,
+   "stated": 2.2222222222222223,
+   "metered": 3.184,
+   "ratio": 0.6979341150195422
+  },
+  {
+   "country": "NL",
+   "source": "PBL KEV 2025",
+   "year": 2023,
+   "stated": 4.722222222222222,
+   "metered": 4.489,
+   "ratio": 1.0519541595505062
+  }
+ ],
+ "fes_scores": [
+  {
+   "edition": "2022",
+   "year": 2023,
+   "h": 2,
+   "metered": 4.1268,
+   "level": {
+    "lo": 4.062,
+    "hi": 4.853,
+    "inside": true
+   },
+   "growth": {
+    "lo": 1.1005147656461665,
+    "hi": 1.2677638453500522,
+    "metered": 1.1979795633999073,
+    "inside": true
+   }
+  },
+  {
+   "edition": "2022",
+   "year": 2024,
+   "h": 3,
+   "metered": 4.4595,
+   "level": {
+    "lo": 4.542,
+    "hi": 6.211,
+    "inside": false
+   },
+   "growth": {
+    "lo": 1.2305608236250338,
+    "hi": 1.6225182863113898,
+    "metered": 1.294559916395727,
+    "inside": true
+   }
+  },
+  {
+   "edition": "2023",
+   "year": 2023,
+   "h": 1,
+   "metered": 4.1268,
+   "level": {
+    "lo": 4.062,
+    "hi": 4.853,
+    "inside": true
+   },
+   "growth": {
+    "lo": 1.0234315948601664,
+    "hi": 1.2227261274880323,
+    "metered": 1.0737647334322067,
+    "inside": true
+   }
+  },
+  {
+   "edition": "2023",
+   "year": 2024,
+   "h": 2,
+   "metered": 4.4595,
+   "level": {
+    "lo": 4.542,
+    "hi": 6.211,
+    "inside": false
+   },
+   "growth": {
+    "lo": 1.1443688586545728,
+    "hi": 1.5648778029730412,
+    "metered": 1.1603309655764578,
+    "inside": true
+   }
+  },
+  {
+   "edition": "2024",
+   "year": 2024,
+   "h": 1,
+   "metered": 4.4595,
+   "level": {
+    "lo": 4.494,
+    "hi": 5.908,
+    "inside": false
+   },
+   "growth": {
+    "lo": 0.8987999999999999,
+    "hi": 1.1816,
+    "metered": 1.080619366094795,
+    "inside": true
+   }
+  }
+ ]
+}
